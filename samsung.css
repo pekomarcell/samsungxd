@@ -1,0 +1,62 @@
+/**{
+    background-color: #000;
+}
+*/
+#phone{
+    width: 290px;
+    height: 290px;;
+}
+
+.type{
+    font-size: 45px;
+    background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ul{
+    font-size: 36 px;
+    color: #f5f5f5;
+    text-shadow: 2px 2px #FF0000;
+}
+
+ul :hover{
+    color: orange;
+}
+
+#main_page{
+    color: antiquewhite;
+}
+
+button{
+    color: antiquewhite;
+}
+
+#tul{
+    border: 2px solid #b3b2b2;
+    background-color: #fff;
+}
+
+#tul :hover{ 
+color: #b3b2b2;
+}
+
+#sy :hover{ 
+color: #b3b2b2;
+
+}
+
+#mem :hover{ 
+background-color: #b3b2b2;
+
+}
+
+#scre :hover{ 
+color: #b3b2b2;
+
+}
+
+.tulxd:hover{
+    color: #b3b2b2;
+
+}
