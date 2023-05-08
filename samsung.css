@@ -1,7 +1,6 @@
-/**{
+*{
     background-color: #000;
 }
-*/
 #phone{
     width: 290px;
     height: 290px;;
@@ -20,7 +19,7 @@ ul{
     text-shadow: 2px 2px #FF0000;
 }
 
-ul :hover{
+li:hover{
     color: orange;
 }
 
@@ -37,26 +36,6 @@ button{
     background-color: #fff;
 }
 
-#tul :hover{ 
-color: #b3b2b2;
-}
-
-#sy :hover{ 
-color: #b3b2b2;
-
-}
-
-#mem :hover{ 
-background-color: #b3b2b2;
-
-}
-
-#scre :hover{ 
-color: #b3b2b2;
-
-}
-
 .tulxd:hover{
     color: #b3b2b2;
-
 }
